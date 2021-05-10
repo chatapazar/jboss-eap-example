@@ -1,0 +1,6 @@
+/Users/ckongman/work/workspace/jboss-eap-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/model/Member.java
+/Users/ckongman/work/workspace/jboss-eap-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/controller/MemberController.java
+/Users/ckongman/work/workspace/jboss-eap-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/data/MemberListProducer.java
+/Users/ckongman/work/workspace/jboss-eap-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/data/MemberRepository.java
+/Users/ckongman/work/workspace/jboss-eap-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/service/MemberRegistration.java
+/Users/ckongman/work/workspace/jboss-eap-quickstarts/hibernate/src/main/java/org/jboss/as/quickstart/hibernate/util/Resources.java
