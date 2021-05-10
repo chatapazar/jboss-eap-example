@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.5">
-<file name="/Users/ckongman/work/workspace/jboss-eap-quickstarts/helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloService.java">
+<file name="/Users/ckongman/work/workspace/jboss-eap-example/helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloService.java">
 </file>
-<file name="/Users/ckongman/work/workspace/jboss-eap-quickstarts/helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloWorldServlet.java">
+<file name="/Users/ckongman/work/workspace/jboss-eap-example/helloworld/src/main/java/org/jboss/as/quickstarts/helloworld/HelloWorldServlet.java">
 </file>
 </checkstyle>
